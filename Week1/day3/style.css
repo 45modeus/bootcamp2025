@@ -1,0 +1,22 @@
+h1 {
+    color: pink;
+}
+
+#blue {
+    color: blue;
+}
+
+#firstDiv {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.pink {
+    background-color: pink;
+    color: white;
+}
+.lightblue {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 50px;
+}
