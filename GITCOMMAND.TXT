@@ -1,6 +1,0 @@
-git init        creates a new repo
-git status      check repo status
-git add         add any untrack files
-git commit -m "<commit message>"
-git remote add      connects our remote repo
-git push <remotename> <branch> push commits
